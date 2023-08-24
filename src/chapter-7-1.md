@@ -1,5 +1,3 @@
-Recap of the Benefits of Building an AI Culture
-===========================================================
 
 Building an AI culture can bring many benefits to organizations. In this book, we have explored the different components of building an AI culture, including leadership, adoption, education, and ethics. Now, let's recap the benefits of building an AI culture.
 

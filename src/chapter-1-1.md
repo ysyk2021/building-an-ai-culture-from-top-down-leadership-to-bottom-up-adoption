@@ -1,5 +1,3 @@
-The Role of AI in Organizational Culture
-======================================================
 
 In this book, we will explore the role of AI technology in building a culture of innovation and continuous learning within organizations. By understanding how AI can be integrated into organizational culture, leaders and employees can drive growth and stay competitive in today's rapidly-changing business landscape.
 

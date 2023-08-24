@@ -1,5 +1,3 @@
-Empowering Leadership to Drive AI Culture Transformation
-==================================================================================================================
 
 Successfully introducing AI into an organization requires a cultural shift that involves both top-down leadership and bottom-up adoption. In this chapter, we will focus on empowering leadership to drive this culture transformation.
 

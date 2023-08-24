@@ -1,5 +1,3 @@
-Strategies for Engaging Employees in AI Culture Transformation
-=======================================================================================================================
 
 Encouraging bottom-up adoption of an AI culture requires engaging employees in the transformation process. In this chapter, we will discuss some strategies that leaders can use to engage employees in building an AI culture.
 

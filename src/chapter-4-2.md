@@ -1,5 +1,3 @@
-Strategies for promoting AI adoption at the executive level
-=====================================================================================================================
 
 As AI continues to reshape industries and drive innovation, it is crucial for organizations to have strong leadership that understands the potential of this technology. However, convincing executives to invest in AI can be a challenge. This chapter will outline strategies for fostering top-down leadership for AI adoption.
 

@@ -1,5 +1,3 @@
-Chapter 3: Fostering Top-Down Leadership for AI Adoption
-========================================================
 
 Top-down leadership is critical to the successful adoption of AI within an organization. In this chapter, we will discuss the importance of leadership buy-in and support, as well as strategies for promoting AI adoption at the executive level and empowering leadership to drive AI culture transformation.
 

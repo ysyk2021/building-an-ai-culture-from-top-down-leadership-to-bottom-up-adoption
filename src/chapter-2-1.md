@@ -1,5 +1,3 @@
-What is AI and How Does It Work?
-======================================================================================================
 
 AI, or artificial intelligence, refers to the ability of machines to perform tasks that would normally require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. AI technology is powered by machine learning algorithms that enable machines to learn from data and improve their performance over time.
 

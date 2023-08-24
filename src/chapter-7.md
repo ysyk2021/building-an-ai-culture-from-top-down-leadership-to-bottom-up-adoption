@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 In this book, we have explored the importance of building an AI culture within organizations. We have discussed the significance of both top-down leadership and bottom-up adoption in creating a successful AI culture. Through our exploration, we have identified several benefits of building an AI culture.
 

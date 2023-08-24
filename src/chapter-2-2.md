@@ -1,5 +1,3 @@
-The Potential Impact of AI on Organizational Culture
-==========================================================================================================================
 
 AI technology has the potential to transform organizational culture in several ways:
 

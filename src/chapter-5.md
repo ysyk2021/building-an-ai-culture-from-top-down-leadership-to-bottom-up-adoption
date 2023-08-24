@@ -1,5 +1,3 @@
-Chapter 4: Encouraging Bottom-Up Adoption of AI Culture
-=======================================================
 
 While top-down leadership is crucial for AI adoption, bottom-up adoption is equally important. In this chapter, we will explore strategies for engaging employees in AI culture transformation and empowering them to contribute to the organization's AI strategy and implementation.
 

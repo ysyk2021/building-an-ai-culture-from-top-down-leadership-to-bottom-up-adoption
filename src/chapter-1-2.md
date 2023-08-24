@@ -1,5 +1,3 @@
-How AI Can Enhance Innovation and Collaboration
-=============================================================
 
 In this book, we will explore how building an AI culture within organizations can enhance innovation and collaboration. By leveraging AI technology, organizations can drive growth and stay competitive in today's rapidly-changing business landscape.
 
