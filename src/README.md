@@ -8,3 +8,7 @@ Throughout the book, we highlight the importance of top-down leadership and bott
 By the end of this book, readers will gain a comprehensive understanding of how to build an AI culture that drives business growth, employee engagement, and innovation. Whether you are a business leader looking to implement AI or an employee interested in learning more about AI culture, this book provides valuable insights and practical advice for building an AI culture from top-down leadership to bottom-up adoption.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
