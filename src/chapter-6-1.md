@@ -1,5 +1,4 @@
-Chapter 5: Addressing Concerns about Privacy, Bias, and Transparency in AI Culture
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical issues of privacy, bias, and transparency within the context of building an AI culture. As organizations increasingly integrate AI technologies, it is essential to address these concerns to ensure that AI is deployed ethically and responsibly.
 

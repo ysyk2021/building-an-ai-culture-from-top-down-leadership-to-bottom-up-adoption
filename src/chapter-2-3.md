@@ -1,5 +1,4 @@
-Chapter 5: Examples of Successful Implementation of AI in Organizational Culture
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore several real-world examples of organizations that have successfully integrated AI into their corporate culture. These cases serve as inspiring models for understanding how AI can transform various aspects of an organization, from decision-making processes to employee engagement.
 

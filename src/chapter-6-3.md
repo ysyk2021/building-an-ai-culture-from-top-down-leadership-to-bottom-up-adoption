@@ -1,5 +1,4 @@
-Chapter 8: Future Developments and Trends in AI Culture
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting and rapidly evolving landscape of future developments and trends in AI culture. As technology continues to advance, organizations must stay ahead of the curve to foster a culture that not only embraces AI but also thrives in an increasingly AI-driven world.
 

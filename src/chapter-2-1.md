@@ -1,5 +1,4 @@
-Chapter 1: What is AI and How Does It Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will lay the foundation for understanding AI by exploring what it is and how it operates. Building an AI culture begins with a solid grasp of the technology that is shaping our world.
 

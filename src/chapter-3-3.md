@@ -1,5 +1,4 @@
-Chapter 6: Aligning AI Strategy with Overall Business Strategy
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To harness the full potential of AI, it's imperative to ensure that AI strategy aligns seamlessly with the broader business strategy. This chapter explores the critical principles and practices for achieving synergy between AI initiatives and overarching organizational goals.
 

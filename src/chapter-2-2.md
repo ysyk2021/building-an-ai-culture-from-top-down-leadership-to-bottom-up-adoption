@@ -1,5 +1,4 @@
-Chapter 7: The Potential Impact of AI on Organizational Culture
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is more than just a technical innovation. When integrated into an organization, it has the power to fundamentally alter its culture. This chapter delves into the multifaceted ways in which AI can reshape an organization's culture, from decision-making paradigms to employee roles and communication dynamics.
 

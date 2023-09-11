@@ -1,5 +1,4 @@
-Chapter 2: The Importance of Leadership Buy-In and Support
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical role that leadership buy-in and support play in building a culture of AI adoption within an organization. From top-down leadership to executive sponsorship, the commitment of leaders is a linchpin in the successful integration of AI technologies and practices.
 

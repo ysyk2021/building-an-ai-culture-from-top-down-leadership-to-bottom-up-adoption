@@ -1,5 +1,4 @@
-Chapter 8: Empowering Employees to Contribute to AI Strategy and Implementation
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 One of the cornerstones of building a robust AI culture within an organization is ensuring that every employee feels empowered to participate in and contribute to AI strategy and implementation. In this chapter, we will explore the key principles and practices for fostering employee engagement and collaboration in the AI journey.
 

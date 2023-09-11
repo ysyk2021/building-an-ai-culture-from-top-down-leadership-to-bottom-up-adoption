@@ -1,5 +1,4 @@
-Chapter 12: Strategies for Engaging Employees in AI Culture Transformation
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Engaging employees in the transformation towards an AI-driven culture is a critical aspect of the journey. This chapter delves into strategies and best practices for actively involving employees at all levels, ensuring that they become enthusiastic advocates and contributors to the organization's AI culture.
 

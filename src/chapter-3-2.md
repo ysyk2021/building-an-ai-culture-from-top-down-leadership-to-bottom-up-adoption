@@ -1,5 +1,4 @@
-Chapter 4: Setting Goals and Defining Success Criteria
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Setting clear and measurable goals, as well as defining success criteria, is a foundational step in building an AI culture. In this chapter, we will explore the essential principles and practices for establishing objectives and criteria that guide AI initiatives towards success.
 

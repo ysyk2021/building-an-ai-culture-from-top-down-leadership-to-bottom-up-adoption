@@ -1,5 +1,4 @@
-Chapter 3: Empowering Leadership to Drive AI Culture Transformation
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the pivotal role of leadership in driving the transformation of an organization's culture to embrace AI. Effective leadership is not only about setting a vision but also about empowering teams, fostering innovation, and championing AI initiatives from top to bottom.
 
